@@ -4,5 +4,5 @@ Meu nome é SEU NOME
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-  ![descrição do GIF](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJO6SXBv5OU_ycfzpJ4i3cPxBdFarI7S1EkA&s)
+  ![descrição do GIF](https://veja.abril.com.br/wp-content/uploads/2016/05/giphy-3-original.gif?w=500&h=300&crop=1)
 
